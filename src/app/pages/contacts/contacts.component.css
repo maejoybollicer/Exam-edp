@@ -5,7 +5,9 @@
     display: grid;
     align-items: center;
     justify-items: center;
+
     background: linear-gradient(white,green);
+
 }
 
 p{
