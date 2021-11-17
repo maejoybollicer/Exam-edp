@@ -1,5 +1,7 @@
 .profile{
     width:22rem;
+    border: 2px solid green;
+    border-radius: 10%;
 }
 
 .mat-body{
@@ -7,6 +9,12 @@
     justify-items: center;
     align-items: center;
 }
+   .info{
+       color:  black;
+       font-family: 'Courier New', Courier, monospace;
+       font-size: 15px;
+       
+   }
 
 mat-card-actions{
     display: flex;
@@ -17,7 +25,7 @@ mat-card-actions{
 
 button{
     width: 4rem; height: 2rem;
-    background-color: rgb(255, 0, 191);
+    background:linear-gradient(white,green);
 }
 
 mat-card{
