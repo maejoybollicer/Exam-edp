@@ -4,6 +4,7 @@
     display:grid;
     align-items: center;
     justify-items: center;
+    background:linear-gradient(white,black);
 }
 
 
