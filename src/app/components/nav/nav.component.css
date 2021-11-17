@@ -4,7 +4,7 @@ mat-toolbar{
     top:0;
     left:0;
     padding:10px;
-    background-color: rgb(255, 0, 191);
+    background:linear-gradient(white,green);
 }
 
 mat-button-toggle{
